@@ -4,17 +4,16 @@
 
 @font-face {
     font-family: 'outfit-variablefont';
-    src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('woff2'), /* Modern Browsers */
-         url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('woff'); /* Older Browsers */
-    /* Add more src declarations for other font formats if needed */
+    src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('woff2'), 
+         url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('woff'); 
   }
   
 
   @font-face {
     font-family: 'young-serif';
-    src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('woff2'), /* Modern Browsers */
-         url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('woff'); /* Older Browsers */
-    /* Add more src declarations for other font formats if needed */
+    src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('woff2'), 
+         url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('woff'); 
+    
   }
 
   body {
